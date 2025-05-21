@@ -1,6 +1,6 @@
 # 📘 Duolingo UX Redesign – Advanced Learner Support & Engagement
 
-[🔗 **View the Figma Prototype**]([https://www.figma.com/your-link-here](https://www.figma.com/design/suGeeJeii4C0tuO0VM9Gug/Duolingo-Design-Challenge?node-id=0-1&p=f&t=rb0fvT1BQ9NSTdl7-0))
+[🔗 **View the Figma Prototype**](https://www.figma.com/design/suGeeJeii4C0tuO0VM9Gug/Duolingo-Design-Challenge?node-id=0-1&p=f&t=rb0fvT1BQ9NSTdl7-0)
 
 ## 🎯 Project Overview
 
@@ -43,7 +43,4 @@ Many Duolingo users enjoy the initial gamified learning experience but:
 - Designed low- and mid-fidelity wireframes
 - Built interactive prototype in Figma
 
-👉 [**View Figma Prototype**]([https://www.figma.com/your-link-here](https://www.figma.com/design/suGeeJeii4C0tuO0VM9Gug/Duolingo-Design-Challenge?node-id=0-1&p=f&t=rb0fvT1BQ9NSTdl7-0))
-
-## 📂 Project Structure
-
+👉 [**View Figma Prototype**](https://www.figma.com/design/suGeeJeii4C0tuO0VM9Gug/Duolingo-Design-Challenge?node-id=0-1&p=f&t=rb0fvT1BQ9NSTdl7-0)
